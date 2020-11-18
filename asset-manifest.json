@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cmdb/static/css/main.458002a7.chunk.css",
-    "main.js": "/cmdb/static/js/main.6334b13e.chunk.js",
-    "main.js.map": "/cmdb/static/js/main.6334b13e.chunk.js.map",
+    "main.js": "/cmdb/static/js/main.54849703.chunk.js",
+    "main.js.map": "/cmdb/static/js/main.54849703.chunk.js.map",
     "runtime-main.js": "/cmdb/static/js/runtime-main.6431453f.js",
     "runtime-main.js.map": "/cmdb/static/js/runtime-main.6431453f.js.map",
-    "static/js/2.f45e9418.chunk.js": "/cmdb/static/js/2.f45e9418.chunk.js",
-    "static/js/2.f45e9418.chunk.js.map": "/cmdb/static/js/2.f45e9418.chunk.js.map",
+    "static/js/2.f10dffec.chunk.js": "/cmdb/static/js/2.f10dffec.chunk.js",
+    "static/js/2.f10dffec.chunk.js.map": "/cmdb/static/js/2.f10dffec.chunk.js.map",
     "static/js/3.f7b597f4.chunk.js": "/cmdb/static/js/3.f7b597f4.chunk.js",
     "static/js/3.f7b597f4.chunk.js.map": "/cmdb/static/js/3.f7b597f4.chunk.js.map",
     "index.html": "/cmdb/index.html",
     "static/css/main.458002a7.chunk.css.map": "/cmdb/static/css/main.458002a7.chunk.css.map",
-    "static/js/2.f45e9418.chunk.js.LICENSE.txt": "/cmdb/static/js/2.f45e9418.chunk.js.LICENSE.txt"
+    "static/js/2.f10dffec.chunk.js.LICENSE.txt": "/cmdb/static/js/2.f10dffec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6431453f.js",
-    "static/js/2.f45e9418.chunk.js",
+    "static/js/2.f10dffec.chunk.js",
     "static/css/main.458002a7.chunk.css",
-    "static/js/main.6334b13e.chunk.js"
+    "static/js/main.54849703.chunk.js"
   ]
 }
