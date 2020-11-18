@@ -1,0 +1,17 @@
+.Header {
+    
+    margin: 0 0 90px 0;
+    background-color: #000;
+    display: flex;
+    flex-flow: row wrap;
+  
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* padding: 10px; */
+    
+}
+.Header *{
+    display: inline-flex;
+    margin: 1rem 1.5rem;
+}

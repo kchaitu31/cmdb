@@ -1,0 +1,8 @@
+.Link{
+    text-decoration: none;
+    color : #fff;
+}
+
+.Link:visited{
+    color : #fff;
+}

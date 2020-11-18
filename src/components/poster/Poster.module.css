@@ -1,0 +1,37 @@
+.Card{
+
+    width: 250px;
+    margin: 2rem;    
+    box-shadow: 0 4px 8px 0 rgb(8, 8, 8), 0 6px 20px 0 rgb(8, 8, 8);
+    padding: 10px;
+    text-align: center;
+    height: auto;
+    align-items: center;
+}
+
+.CardBody{
+    padding: 10px;
+    align-items: center;
+}
+.CardTitle{
+    font-weight: 500;
+    font-size: 1rem;
+
+}
+.CardImage{
+    display: block;
+}
+
+.CardImage > img{
+    height: 300px;
+    width: 225px;
+}
+
+.Link{
+    text-decoration: none;
+    color : #fff;
+}
+
+.Link:visited{
+    color : #fff;
+}

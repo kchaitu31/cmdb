@@ -1,0 +1,42 @@
+.Detail{
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-top:150px;
+}
+
+.Title{
+
+    font-size: 3rem;
+    font-weight: 700;
+    padding: 20px;
+    background-color: rgba(0, 0,0, 0.1);    
+}
+
+.row{
+    flex-direction: row;
+}
+
+.Desc{
+    margin: 10px 80px;
+    width: 60%;
+    text-align: justify;
+}
+
+h3,h4{
+    margin: 0;
+    margin: 0 1.5rem;
+}
+.Runtime{
+    display: flex;
+    margin: 1rem 0;
+}
+.Plot{
+    padding: 20px;
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+.Poster{
+    width: 25%;
+}

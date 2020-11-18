@@ -1,0 +1,15 @@
+.Logo{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+
+.Logo:hover, .Logo:active, .Logo:visited{
+    color : #fff;
+}
+.Brand{
+    margin-left: 100px;
+    border-bottom: 7px dotted #fff;
+    line-height: 2;
+}

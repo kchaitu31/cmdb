@@ -1,0 +1,22 @@
+.Movies{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+   margin-top:40px;
+    
+}
+
+.Pagination{
+    margin: auto;
+    padding: 20px;
+}
+
+h2{
+    margin-top: 10px;
+}
+.TitleName{
+    display: inline-block;
+    margin-top: 120px;
+    text-align: center;
+    width: 100%;
+}
